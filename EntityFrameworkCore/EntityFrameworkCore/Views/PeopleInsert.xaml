@@ -9,6 +9,6 @@
 
             <Button Text="Save" Clicked="Button_Clicked"/>
             <Button Text="Ir al listado" Clicked="Go_Listado"/>
-            </StackLayout>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

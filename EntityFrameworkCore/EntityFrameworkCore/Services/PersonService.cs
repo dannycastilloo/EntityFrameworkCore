@@ -59,7 +59,5 @@ namespace EntityFrameworkCore.Services
             return _context.People.Where(x => x.FirstName.Contains(text)).ToList();
         }
 
-
-
     }
 }
